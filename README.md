@@ -1,4 +1,4 @@
-## Bem vindo ao meu Github 👋
+## Bem vindo ao meu Github (～￣▽￣)～
 
 <!--
 **AmyAratu/AmyAratu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
