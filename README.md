@@ -1,5 +1,4 @@
-## Welcome to my Github
-I'm Amanda  (～￣▽￣)～
+## Welcome to my Github! I'm Amanda  (～￣▽￣)～✨✨
 
 <!--
 **AmyAratu/AmyAratu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
