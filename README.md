@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Amy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Amy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Amy-c++" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
   ##
