@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyaratu&layout=compact&langs_count=16&theme=dracula"/>
 
   </a>
+</div>
 
 <div style="display: inline_block"><br>
      
